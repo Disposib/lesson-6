@@ -1,0 +1,13 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.40940126050420167) 0%, rgba(9,9,121,0.1825105042016807) 35%, rgba(0,212,255,0.21332282913165268) 100%);    
+    color: rgb(19, 18, 18);
+}
+th:hover {
+    color: rgb(15, 82, 93);
+}
+td:hover {
+    background: rgb(0,1,36);
+    background: linear-gradient(90deg, rgba(0,1,36,0.21612394957983194) 0%, rgba(7,7,241,0.1292892156862745) 35%, rgba(218,0,255,0.0844712885154062) 100%);
+    
+}
