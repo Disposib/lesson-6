@@ -1,0 +1,44 @@
+.main{
+    background-image: url(img.png);
+    height: 100%;
+    width: 100%;
+}
+.left{
+    position: relative;
+    width: 620px;
+    height: 600px;
+    background-color: whitesmoke;
+    left: 17.1%;
+    top: 200px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    text-align: center;
+}
+.right{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background-color: turquoise;
+    left: 50%;
+    top: -400px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    font-size: 25px;
+}
+.text1{
+    position: relative;
+    top: 65px;
+    font-size: 35px;
+}
+.hello{
+    text-align:center;
+    font-variant: small-caps;
+    position: relative;
+    top: 180px;
+}
+.if{
+    font-variant: small-caps;   
+    text-align:center;
+    position: relative;
+    top: 200px;
+}
